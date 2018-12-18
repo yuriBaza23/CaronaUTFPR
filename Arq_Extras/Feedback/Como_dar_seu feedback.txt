@@ -1,0 +1,19 @@
+Para dar seu feedback para algum código, será feito:
+1- Um arquivo de nome "Numero do tela no fluxograma montado_Nome da tela.txt" que conterá
+   instruções para teste da tela em questão.
+2- Abaixo dele haverá uma área: ////////////////Feedbacks ////////////////// para que os demais instegrantes
+   possam dar suas avaliações.
+   
+   
+Exemplo:
+Nome de arquivo: 0_tela.txt
+
+Instruções:
+1- Clique no botão x e aperte o comando Y no teclado. Após isso, acesse a aba network.
+
+///////////////Feedbacks/////////////////
+
+AQUI FICARÃO OS FEEDBACKS DO PESSOAL REFERENTE AO ARQUIVO EM QUESTÃO.
+
+
+
